@@ -1,0 +1,6 @@
+dataFactory\carrinhoDataFactory.class
+execucao\lojinha\alterarLojinha.class
+execucao\lojinha\adicionarLojinha.class
+execucao\lojinha\deletarLojinha.class
+pageobjects\produtosPO.class
+pageobjects\carrinhoPO.class

@@ -114,7 +114,7 @@ describe('Projeto de desafio app cocobambu', () => {
      * Verificar se o aplicativo está processando corretamente as informações do cartão de crédito ao inserir CPF do titular do cartão inválido
      */
 
-    it.only('CPF do titular do cartão de crédito invalido', () => {
+    it('CPF do titular do cartão de crédito invalido', () => {
         CartaodeCredito.acessarFormaPagamento()
         CartaodeCredito.CPFouCNPJ_Invalido()
     });
